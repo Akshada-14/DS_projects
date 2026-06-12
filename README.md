@@ -22,25 +22,25 @@ Workflow:
 
 Key Insights:
 
-Customers with month-to-month contracts showed higher churn rates.
-High monthly charges increased the chances of churn.
-Customers using technical support and additional services were more likely to stay.
-Long-term customers had better retention.
+1. Customers with month-to-month contracts showed higher churn rates.
+2. High monthly charges increased the chances of churn.
+3. Customers using technical support and additional services were more likely to stay.
+4. Long-term customers had better retention.
 
 Business Impact:
 
 This project helps businesses:
-Identify high-risk customers
-Improve retention strategies
-Reduce revenue loss
-Make data-driven decisions
+1. Identify high-risk customers
+2. Improve retention strategies
+3. Reduce revenue loss
+4. Make data-driven decisions
 
 Future Improvements:
 
-Hyperparameter tuning
-Advanced ML models like XGBoost
-Model deployment using Flask or Streamlit
-Real-time churn prediction dashboard
+1. Hyperparameter tuning
+2. Advanced ML models like XGBoost
+3. Model deployment using Flask or Streamlit
+4. Real-time churn prediction dashboard
 
 Conclusion:
 
